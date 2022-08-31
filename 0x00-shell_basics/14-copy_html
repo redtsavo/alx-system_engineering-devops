@@ -1,2 +1,2 @@
 #!/bin/bash
-cp -u *.html "." .. 
+cp -u *.html "." .. (cp-copy, u-to copy only update files, *.html-for the file type, "." -working directory, .. - move up one level) 
