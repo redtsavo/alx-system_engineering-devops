@@ -1,1 +1,1 @@
-path name of current working dorectory
+absolute path name of working directory
